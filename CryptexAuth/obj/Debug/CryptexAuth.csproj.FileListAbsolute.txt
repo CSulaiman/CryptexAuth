@@ -1,0 +1,15 @@
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.csprojAssemblyReference.cache
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\LoginWindow.g.cs
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\App.g.cs
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth_MarkupCompile.cache
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth_MarkupCompile.lref
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\bin\Debug\CryptexAuth.exe.config
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\bin\Debug\CryptexAuth.exe
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\bin\Debug\CryptexAuth.pdb
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\LoginWindow.baml
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.g.resources
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.Properties.Resources.resources
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.csproj.GenerateResource.cache
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.csproj.CoreCompileInputs.cache
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.exe
+C:\Users\christopher.sulaiman\source\repos\CryptexAuth\CryptexAuth\obj\Debug\CryptexAuth.pdb
